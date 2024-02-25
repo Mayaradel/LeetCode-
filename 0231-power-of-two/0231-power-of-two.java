@@ -6,10 +6,6 @@ class Solution {
             i = i * 2;
         }
         
-        if (i == n) {
-            return true;
-        } else {
-            return false;
-        }
+       return i==n? true: false;
     }
 }
