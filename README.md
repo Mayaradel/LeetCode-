@@ -11,4 +11,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Mayaradel/LeetCode-/tree/master/0238-product-of-array-except-self) |
+## Two Pointers
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Mayaradel/LeetCode-/tree/master/0151-reverse-words-in-a-string) |
+## String
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Mayaradel/LeetCode-/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
