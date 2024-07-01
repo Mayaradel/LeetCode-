@@ -19,4 +19,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Mayaradel/LeetCode-/tree/master/0151-reverse-words-in-a-string) |
+| [2470-removing-stars-from-a-string](https://github.com/Mayaradel/LeetCode-/tree/master/2470-removing-stars-from-a-string) |
+## Stack
+|  |
+| ------- |
+| [2470-removing-stars-from-a-string](https://github.com/Mayaradel/LeetCode-/tree/master/2470-removing-stars-from-a-string) |
+## Simulation
+|  |
+| ------- |
+| [2470-removing-stars-from-a-string](https://github.com/Mayaradel/LeetCode-/tree/master/2470-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
